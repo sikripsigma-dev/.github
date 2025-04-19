@@ -1,6 +1,6 @@
-# 🎓 Skripsigma
+# Skripsigma
 
-Platform digital untuk menghubungkan mahasiswa semester akhir dengan perusahaan melalui studi kasus penelitian skripsi.
+> 🎓 **Final Year Project** – A platform developed to connect final-year students with companies through research case studies.
 
 ## 🔍 Fokus Utama
 - Studi Kasus Industri
