@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">🎓 Skripsigma</h1>
+<h1 align="center">Skripsigma</h1>
 
 > 🎓 **Final Year Project** – A platform developed to connect final-year students with companies through research case studies.
 
